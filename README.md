@@ -4,6 +4,8 @@
 
 **Client:** React(Vite), 
 
+Review live demo: https://doviz-461564.netlify.app/
+
 ![alt text](public/screenshots/ss1.png.png)
 
 ## Getting Started
